@@ -1,7 +1,7 @@
 Configuration
 =============
 
-.. note ::
+.. note :::
 
     If you are using Symfony2, this section is mostly irrelevant for you as the entire integration is provided by
     JMSSerializerBundle; please see `its documentation <http://jmsyst.com/bundles/JMSSerializerBundle>`_. If you are
